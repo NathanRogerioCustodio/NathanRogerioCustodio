@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Olá! Eu sou o Nathan e hoje em dia estou estudando e aumentando o meu conhecimento na linguagem de programação Java com ênfase no Spring Boot Framework buscando oportunidades para ingressar no mercado de trabalho com foco em Desenvolvimento de Software Backend na linguagem Java.</h5>
+<h5 align="left">Olá! Eu sou o Nathan e hoje em dia estou estudando e aumentando o meu conhecimento na linguagem de programação Java com ênfase no Spring Boot Framework buscando oportunidades para ingressar no mercado de trabalho com foco em Desenvolvimento de Software Backend na linguagem Java. Além de Java tenho algumas aplicações desenvolvidas em Python e um breve conhecimento em HTML e CSS.</h5>
 
 ###
 
