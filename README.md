@@ -15,6 +15,8 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
@@ -22,6 +24,10 @@
   <img src="https://skillicons.dev/icons?i=kafka" height="30" alt="apachekafka logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
 ###
