@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Olá! Eu sou o Nathan e hoje em dia estou estudando e aumentando o meu conhecimento na linguagem de programação Java com ênfase no Spring Boot Framework buscando oportunidades para ingressar no mercado de trabalho com foco em Desenvolvimento de Software Backend na linguagem Java. Além de Java tenho algumas aplicações desenvolvidas em Python e um breve conhecimento em HTML e CSS.</h5>
+<h5 align="left">Olá! Eu sou o Nathan e hoje em dia estou estudando e aumentando o meu conhecimento na linguagem de programação Java com ênfase no Spring Boot Framework buscando oportunidades para ingressar no mercado de trabalho com foco em Desenvolvimento de Software Backend na linguagem Java.</h5>
 
 ###
 
@@ -28,6 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
 
 ###
